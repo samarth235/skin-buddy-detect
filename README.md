@@ -5,8 +5,6 @@
 DermAI Diagnostics is a **computer vision–based skin disease screening system** that classifies dermatological conditions from images using a **transfer-learning based Xception CNN model**.
 The system allows users to upload images of skin conditions and receive **AI-based predictions along with confidence scores**.
 
-> Designed as an **academic + engineering project** demonstrating applied deep learning techniques in healthcare applications.
-
 ---
 
 # 🔍 Problem Statement
@@ -76,12 +74,6 @@ The model was trained using publicly available dermatology datasets.
 * **Type:** Dermatoscopic images of skin lesions
 * **Categories:** 7 lesion types
 * **Source:** International Skin Imaging Collaboration (ISIC)
-
-## 2️⃣ ISIC Skin Lesion Dataset
-
-* **Total Images:** ~25,000+
-* **Content:** Dermatological images including melanoma and other lesions
-* **Use Case:** Training and evaluation of deep learning dermatology models
 
 ## Dataset Processing
 
